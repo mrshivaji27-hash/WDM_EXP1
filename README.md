@@ -60,6 +60,8 @@ rainy,mild,high,TRUE,no
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+<img width="1919" height="1079" alt="employee ss" src="https://github.com/user-attachments/assets/78dd8f02-da67-4458-88db-f62ad351c8a0" />
+<img width="1730" height="890" alt="weather ss" src="https://github.com/user-attachments/assets/43441db9-2b07-498a-908b-b3c673f882c7" />
 
 
 
@@ -84,8 +86,8 @@ rainy,mild,high,TRUE,no
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-![Uploading employee ss.png…]()
-![Uploading weather ss.png…]()
+<img width="1919" height="1079" alt="employee ss" src="https://github.com/user-attachments/assets/78dd8f02-da67-4458-88db-f62ad351c8a0" />
+<img width="1730" height="890" alt="weather ss" src="https://github.com/user-attachments/assets/43441db9-2b07-498a-908b-b3c673f882c7" />
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -101,8 +103,8 @@ rainy,mild,high,TRUE,no
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-![Uploading employee ss.png…]()
-![Uploading weather ss.png…]()
+<img width="1919" height="1079" alt="employee ss" src="https://github.com/user-attachments/assets/78dd8f02-da67-4458-88db-f62ad351c8a0" />
+<img width="1730" height="890" alt="weather ss" src="https://github.com/user-attachments/assets/43441db9-2b07-498a-908b-b3c673f882c7" />
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -118,7 +120,7 @@ rainy,mild,high,TRUE,no
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
-![Uploading employee ss.png…]()
-![Uploading weather ss.png…]()
+<img width="1919" height="1079" alt="employee ss" src="https://github.com/user-attachments/assets/78dd8f02-da67-4458-88db-f62ad351c8a0" />
+<img width="1730" height="890" alt="weather ss" src="https://github.com/user-attachments/assets/43441db9-2b07-498a-908b-b3c673f882c7" />
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
